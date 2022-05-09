@@ -7,3 +7,4 @@ hello git
 version1.1
 master test
 hot-fix test
+github test
